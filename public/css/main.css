@@ -95,6 +95,7 @@ body {
     color: #333;
     font-weight: 500;
     line-height: 1.5;
+    /*background-image:url('{{site.baseurl}}/public/images/backround.png');*/
     -webkit-font-smoothing: antialiased;
 }
 
