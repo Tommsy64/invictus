@@ -1,4 +1,4 @@
-highlighter: pygments
+baseurl: /Invictus
 name: Invictus
 markdown: redcarpet
 pygments: true
@@ -9,4 +9,3 @@ gems:
 - jekyll-redirect-from
 kramdown: 
   input: GFM
-baseurl: /Invictus
