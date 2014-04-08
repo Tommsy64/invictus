@@ -7,6 +7,7 @@
     <div class="container azul">
       <header class="top row gutters{% if page.title == "Home" %} fadeInLeft animated{% endif %}">
         <div class="col span_2 center">
+          <!-- TODO: add baseurl to the logo link -->
           <a href="{{ site.url }}" id="logo" title="{{ site.data.brume.name }}"
              style="background-image: url({{site.baseurl}}/public/images/logo.png);"></a>
         </div>
@@ -15,13 +16,10 @@
 
       {{ content }}
 
-      <footer>
-        <div class="container">
-			<p>
-			  This work is licensed under a <a rel="license" href="http://choosealicense.com/licenses/gpl-v3/">GPL v3. License</a>.
-			</p>
-		</div>
-      </footer>
+        <div id="footer" class="container center">
+          <p> This work is licensed under a <a rel="license" href="http://choosealicense.com/licenses/gpl-v3/">GPL v3. License</a>.</p>
+        </div>
+
       
       
     </div>
