@@ -1,6 +1,8 @@
+highlighter: pygments
 name: Invictus
 markdown: redcarpet
 pygments: true
+repository: https://github.com/Tommsy64/Invictus
 gems: 
 - jekyll-mentions 
 - jemoji 
