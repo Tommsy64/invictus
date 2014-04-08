@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Nothing yet :(
+The Invictus Faction website by Tommsy64
