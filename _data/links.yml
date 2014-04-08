@@ -1,5 +1,5 @@
-- url: {{ site.baseurl }}
+- url: ''
   title: Home
 
-- url: {{ site.baseurl }}
+- url: About
   title: About
