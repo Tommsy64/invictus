@@ -1,5 +1,14 @@
 - url: /
   title: Home
 
+- url: /faction/members/
+  title: Faction Members
+  
+- url: /faction/allies/
+  title: Allies
+  
+- url: /faction/enemies/
+  title: Enemies
+  
 - url: /about/
   title: About
