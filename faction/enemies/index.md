@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Enemies
 ---
 
 The Invictus Faction website by Tommsy64
