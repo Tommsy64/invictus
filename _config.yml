@@ -9,3 +9,4 @@ gems:
 - jekyll-redirect-from
 kramdown: 
   input: GFM
+baseurl: /Invictus
