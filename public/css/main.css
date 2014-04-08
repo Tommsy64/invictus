@@ -90,10 +90,9 @@
 }
 
 body {
-    background-color: {{ site.data.settings.css.body.backround-color }};
     border-top: 5px solid #333;
     font-family: 'Source Sans Pro',sans-serif;
-    color: {{ site.data.settings.css.body.color }};
+    color: #333;
     font-weight: 500;
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;

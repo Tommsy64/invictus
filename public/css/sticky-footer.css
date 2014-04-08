@@ -16,5 +16,5 @@ body {
   width: 100%;
   /* Set the fixed height of the footer here */
   height: {{ site.data.settings.footer.height }};
-  background-color: {{ site.data.settings.footer.color }};
+  background-color: {{ site.data.settings.footer.backround-color }};
 }
