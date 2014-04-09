@@ -2,7 +2,7 @@ name: Invictus
 markdown: redcarpet
 pygments: true
 
-baseurl: /invictus
+baseurl: http://tommsy64.github.io/invictus
 url: http://tommsy64.github.io/invictus
 repository: https://github.com/Tommsy64/invictus
 
