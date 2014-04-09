@@ -3,4 +3,4 @@ layout: page
 title: Allies
 ---
 
-The Invictus Faction website by Tommsy64
+A list of our current allies

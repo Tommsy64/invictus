@@ -3,4 +3,4 @@ layout: page
 title: Enemies
 ---
 
-The Invictus Faction website by Tommsy64
+A list of our current enemies
