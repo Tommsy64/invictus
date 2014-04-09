@@ -3,8 +3,8 @@ markdown: redcarpet
 pygments: true
 
 baseurl: /invictus
-url: http://tommsy64.github.io/Invictus
-repository: https://github.com/Tommsy64/Invictus
+url: http://tommsy64.github.io/invictus
+repository: https://github.com/Tommsy64/invictus
 
 
 gems: 

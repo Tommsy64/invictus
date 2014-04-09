@@ -10,5 +10,8 @@
 - url: /faction/enemies/
   title: Enemies
   
+- url: /faction/apply/
+  title: Apply
+  
 - url: /about/
   title: About
