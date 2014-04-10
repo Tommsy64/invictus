@@ -91,9 +91,7 @@
 
 body {
     border-top: 5px solid #333;
-    font-family: 'Source Sans Pro',sans-serif;
     color: #333;
-    font-weight: 500;
     line-height: 1.5;
     /*background-image:url('{{site.baseurl}}/public/images/backround.png');*/
     -webkit-font-smoothing: antialiased;
@@ -272,13 +270,13 @@ footer {
 }
 
 .single {
-    font-size: 1.125rem;
+    font-size: 1.5rem;
     line-height: 28px;
 }
 
 .single time {
     color: #999;
-    font-size: .9rem;
+    font-size: 1.225rem;
 }
 
 .bundle {
