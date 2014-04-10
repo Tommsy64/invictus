@@ -210,6 +210,50 @@ footer {
     padding: 30px;
 }
 
+
+#c1 {
+	color: #0033CC;
+}
+#c2 {
+	color: #006600;
+}
+#c3 {
+	color: #005CE6;
+}
+#c4 {
+	color: #FF0000;
+}
+#c5 {
+	color: #853385;
+}
+#c6 {
+	color: #FF9900;
+}
+#c7 {
+	color: #B8B8B8;
+}
+#c8 {
+	color: #5C5C5C;
+}
+#c9 {
+	color: #9999FF;
+}
+#ca {
+	color: #19FF19;
+}
+#cb {
+	color: #00FFFF;
+}
+#cc {
+	color: #FF6666;
+}
+#cd {
+	color: #FF70DB;
+}
+#cf {
+	color: #FFFFFF;
+}
+
 .highlight code {
     font-size: 1.3rem;
 }
