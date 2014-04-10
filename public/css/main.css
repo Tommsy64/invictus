@@ -129,7 +129,7 @@ hr {
 
 code {
     font-family: Consolas,"Liberation Mono",Courier,monospace;
-    font-size: .8rem;
+    font-size: 1.2rem;
 }
 
 p code {
@@ -211,7 +211,7 @@ footer {
 }
 
 .highlight code {
-    font-size: .7rem;
+    font-size: 1.3rem;
 }
 
 .container {
@@ -296,7 +296,7 @@ footer {
 }
 
 .not-found h1 {
-    font-size: 8rem;
+    font-size: 1.15rem;
 }
 
 .clearfix:after,.clearfix:before,dl {
