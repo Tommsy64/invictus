@@ -210,56 +210,64 @@ footer {
     padding: 30px;
 }
 
+#c0 {
+    color: #000000;
+}
+
 #c1 {
-    color: #0033CC;
+    color: #0000AA;
 }
 
 #c2 {
-    color: #006600;
+    color: #00AA00;
 }
 
 #c3 {
-    color: #005CE6;
+    color: #00AAAA;
 }
 
 #c4 {
-    color: #FF0000;
+    color: #AA0000;
 }
 
 #c5 {
-    color: #853385;
+    color: #AA00AA;
 }
 
 #c6 {
-    color: #FF9900;
+    color: #FFAA00;
 }
 
 #c7 {
-    color: #B8B8B8;
+    color: #AAAAAA;
 }
 
 #c8 {
-    color: #5C5C5C;
+    color: #555555;
 }
 
 #c9 {
-    color: #9999FF;
+    color: #5555FF;
 }
 
 #ca {
-    color: #19FF19;
+    color: #55FF55;
 }
 
 #cb {
-    color: #00FFFF;
+    color: #55FFFF;
 }
 
 #cc {
-    color: #FF6666;
+    color: #FF5555;
 }
 
 #cd {
-    color: #FF70DB;
+    color: #FF55FF;
+}
+
+#ce {
+	color: #FFFF55;
 }
 
 #cf {
