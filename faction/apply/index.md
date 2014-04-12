@@ -37,3 +37,11 @@ The subject of the email should be: (Invictus) Username
 > What can you offer us:
  
 > Anything else:
+
+### Note
+
+If you leave within the first 3 days of joining, we **will** enemy you, spawn kill you, destroy your faction, and prison your dead, sauced up body.
+
+With all kindness in mind
+<span id="c2">__~Tommsy64__</span>
+<span id="cr">__~Dichlorodiphen__</span>
