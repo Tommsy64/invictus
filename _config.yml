@@ -3,7 +3,7 @@ markdown: redcarpet
 pygments: true
 
 baseurl: /invictus
-url: http://tommsy64.github.io/invictus
+url: http://invictus.hopto.org/
 repository: https://github.com/Tommsy64/invictus
 
 
