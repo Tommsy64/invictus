@@ -18,25 +18,7 @@ If you lie, you will be kicked, enemied, and never able to join again
 
 ### How to apply
 
-To apply, email Dichlorodiphen@gmail.com with the format for applying.
-
-If you do not receive a response within 24 hours, contact a faction moderator
-
-### Format
-
-The subject of the email should be: (Invictus) Username
-
-> IGN:
- 
-> Timezone:
- 
-> Skillset: Building, PvP, redstone, or other (You can select more than one)
- 
-> Why you want to join Invictus:
- 
-> What can you offer us:
- 
-> Anything else:
+Apply [here](https://docs.google.com/forms/d/1MwjcnUk4C9Q-1Vl-OX6v0sMP-LMICznQl-otZ7qWvus/viewform)
 
 ### Note
 
