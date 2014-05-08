@@ -5,7 +5,7 @@ title: Apply
 
 Here you can apply for the faction
 
-If you lie, you will be kicked, enemied, and never able to join again
+If leave within the first 3 days, you will be kicked, enemied, and never able to join again
 
 ### Requirements
 
@@ -22,7 +22,7 @@ Apply [here](https://docs.google.com/forms/d/1MwjcnUk4C9Q-1Vl-OX6v0sMP-LMICznQl-
 
 ### Note
 
-If you leave within the first 3 days of joining, we **will** enemy you, spawn kill you, destroy your faction, and prison your dead, sauced up body.
+If you lie (In any possible way), we **will** enemy you, spawn kill you, destroy your faction, and prison your dead, sauced up body.
 
 With all kindness in mind
 <span id="c2">__~Tommsy64__</span>
